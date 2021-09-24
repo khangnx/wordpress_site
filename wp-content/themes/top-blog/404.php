@@ -23,7 +23,7 @@ get_header();
 				<?php endif; ?>
 
 				<div class="page-content">
-					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'top-blog' ); ?></p>
+					<p><?php esc_html_e( 'Nguyen Xuan Khang da thay doi co nay?', 'top-blog' ); ?></p>
 
 					<?php
 					get_search_form();
