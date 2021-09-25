@@ -11,7 +11,6 @@
  *
  * @var bool
  */
-die("lai di bay nua roi");
 define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
