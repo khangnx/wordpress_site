@@ -11,7 +11,6 @@
  *
  * @var bool
  */
-die("co vao day khong khang oi");
 define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
